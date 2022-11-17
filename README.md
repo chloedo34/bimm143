@@ -1,2 +1,3 @@
 # bimm143
-UCSD Bioinformatic
+UCSD Bioinformatic Fall 2022
+
