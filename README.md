@@ -1,3 +1,3 @@
 # bimm143
-UCSD Bioinformatic Fall 2022
+UC San Diego Bioinformatic Fall 2022.
 
